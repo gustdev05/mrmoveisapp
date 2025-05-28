@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316450444231",
+    "project_id": "mr-moveis",
+    "storage_bucket": "mr-moveis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316450444231:android:a103904acaab1ac1cbbfe2",
+        "android_client_info": {
+          "package_name": "com.example.mrmoveisAPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB63t-7BM4fNc5wZ0tPoeEHe09UQgDGJBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
